@@ -56,5 +56,17 @@
   <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
   <ItemGroup>
     <Folder Include="Properties" />
+    <Folder Include="SQL-I" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="SQL-I\Combine Two Tables.sql" />
+    <Build Include="SQL-I\Second Highest Salary.sql" />
+    <Build Include="SQL-I\Duplicate Emails.sql" />
+    <Build Include="SQL-I\Customers Who Never Order.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SQL-I\Delete Duplicate Emails.sql" />
+    <None Include="SQL-I\Rising Temperature.sql" />
+    <None Include="SQL-I\Find Customer Referee.sql" />
   </ItemGroup>
 </Project>
