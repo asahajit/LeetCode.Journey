@@ -68,5 +68,20 @@
     <None Include="SQL-I\Delete Duplicate Emails.sql" />
     <None Include="SQL-I\Rising Temperature.sql" />
     <None Include="SQL-I\Find Customer Referee.sql" />
+    <None Include="SQL-I\Big Countries.sql" />
+    <None Include="SQL-I\Sales Person.sql" />
+    <None Include="SQL-I\Tree Node.sql" />
+    <None Include="SQL-I\Swap Salary.sql" />
+    <None Include="SQL-I\User Activity for the Past 30 Days I.sql" />
+    <None Include="SQL-I\Article Views I.sql" />
+    <None Include="SQL-I\Capital Gain-Loss.sql" />
+    <None Include="SQL-I\Group Sold Products By The Date.sql" />
+    <None Include="SQL-I\Patients With a Condition.sql" />
+    <None Include="SQL-I\Customer Who Visited but Did Not Make Any Transactions.sql" />
+    <None Include="SQL-I\Fix Names in a Table.sql" />
+    <None Include="SQL-I\Recyclable and Low Fat Products.sql" />
+    <None Include="SQL-I\Rearrange Products Table.sql" />
+    <None Include="SQL-I\Calculate Special Bonus.sql" />
+    <None Include="SQL-I\Employees With Missing Information.sql" />
   </ItemGroup>
 </Project>
