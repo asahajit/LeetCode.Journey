@@ -8,6 +8,7 @@
    ###### 520. Detect Capital
    ###### 999.Timeconvert
    ###### 13. Roman to Integer
+   ###### 1768. Merge Strings Alternately
    
   ### SQL
   
